@@ -58,14 +58,6 @@
        "isNavigate":true
    },
      {
-      "name": "Filter Rows",
-      "icon": "/assets/images/components/Filter Rows (grey).svg",
-      "hasInput": true,
-      "hasOutput": true,
-      "type":"FilterRows",
-       "isNavigate":true
-   },
-     {
       "name": "Data Quality",
       "icon": "/assets/images/components/Data Quality (grey).svg",
       "hasInput": true,
