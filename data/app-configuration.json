@@ -2,15 +2,15 @@
   "clients":{
     "d1":{
       "title":"DataQcd",
-      "favicon":"/assets/images/svg_components/logo.svg",
-      "headerName":"DataQ",
-      "loginLogo":"/assets/images/svg_components/logo.svg",
-      "headerLogo":"/assets/images/svg_components/logo.svg"
+      "favicon":"https://static.wixstatic.com/media/50c126_1823cb3a2f3a4583b95a851786050815%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/50c126_1823cb3a2f3a4583b95a851786050815%7Emv2.png",
+      "headerName":"",
+      "loginLogo":"/assets/images/svg_components/logo.png",
+      "headerLogo":"/assets/images/svg_components/logo.png"
     },
     "d2":{
       "title":"Cygnet Infotech",
       "favicon":"/assets/images/svg_components/logo-white.png",
-      "headerName":"Version (1.0 Beta)",
+      "headerName":"",
       "loginLogo":"/assets/images/svg_components/logo-white.png",
       "headerLogo":"/assets/images/svg_components/logo-white.png"
     }
