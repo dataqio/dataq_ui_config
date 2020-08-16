@@ -49,6 +49,14 @@
       "type":"ColumnType",
       "isNavigate":true
    },
+    {
+      "name": "Filter Rows",
+      "icon": "/assets/images/components/Filter Rows (grey).svg",
+      "hasInput": true,
+      "hasOutput": true,
+      "type":"FilterRows",
+      "isNavigate":true
+   },
      {
       "name": "Remove Duplicates",
       "icon": "/assets/images/components/Remove Duplicates (grey).svg",
