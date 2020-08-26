@@ -138,7 +138,7 @@
       "ruleType" : "REGULAR_EXPRESSION",
       "accessType" : "public",
       "dataType" : "numberRegExp6"
-      "
+      
     }, {
       "ruleId" : "PreDefinedRules",
       "ruleName" : "charRegExpLower",
