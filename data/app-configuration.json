@@ -65,7 +65,15 @@
       "type":"RemoveDuplicates",
        "isNavigate":true
    },
-     {
+   {
+      "name": "Add Column",
+      "icon": "/assets/images/components/Add Column(grey).svg",
+      "hasInput": true,
+      "hasOutput": true,
+      "type":"AddColumn",
+      "isNavigate":true
+    },
+    {
       "name": "Data Quality",
       "icon": "/assets/images/components/Data Quality (grey).svg",
       "hasInput": true,
