@@ -89,6 +89,15 @@
       "type":"DataProfile",
       "isRoot":true
    },
+    {
+      "name": "Output",
+      "icon": "/assets/images/components/Output (grey).svg",
+      "hasInput": true,
+      "hasOutput": false,
+      "active":true,
+      "type":"Output",
+      "isRoot":true
+    },
    {
       "name": "Command",
       "icon": "/assets/images/components/Command (grey).svg",
