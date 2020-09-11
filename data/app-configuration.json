@@ -71,6 +71,7 @@
       "hasInput": true,
       "hasOutput": true,
       "type":"AddColumn",
+      "active":true,
       "isNavigate":true
     },
     {
