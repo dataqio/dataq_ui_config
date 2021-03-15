@@ -13,6 +13,13 @@
       "headerName":"Testing Whiz Pro",
       "loginLogo":"/assets/images/svg_components/logo-white.png",
       "headerLogo":"/assets/images/svg_components/logo-white.png"
+    },
+     "d3":{
+      "title":"Shift Tester",
+      "favicon":"https://firebasestorage.googleapis.com/v0/b/mihy-all.appspot.com/o/Shift%20TESTER%20Logo.png?alt=media&token=d7975415-f315-4cbd-ad20-afd1dae2db39",
+      "headerName":"Testing Whiz Pro",
+      "loginLogo":"https://firebasestorage.googleapis.com/v0/b/mihy-all.appspot.com/o/Shift%20TESTER%20Logo.png?alt=media&token=d7975415-f315-4cbd-ad20-afd1dae2db39",
+      "headerLogo":"https://firebasestorage.googleapis.com/v0/b/mihy-all.appspot.com/o/Shift%20TESTER%20Logo.png?alt=media&token=d7975415-f315-4cbd-ad20-afd1dae2db39"
     }
   },
   "flowComponents":[
